@@ -33,6 +33,15 @@ Assignments:
 - [Supervised ML](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Machine%20Learning%20in%20Python/Predicting%20Property%20Maintenance%20Fines.ipynb): Predicting property maintenance fees using random forest regressor.
 
 ### Applied Text Mining in Python
+Assignments:
+- [Working with Text in Python](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Text%20Mining%20in%20Python/Regex.ipynb): Using regex to extract information from medical data
+- [Intro to NLTK](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Text%20Mining%20in%20Python/Introduction%20to%20NLTK.ipynb): Exploring the Moby Dick novel & correcting mispelled words
+- [Classification of Text](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Text%20Mining%20in%20Python/Spam%20Classifier.ipynb): Building a spam classifier
+- [Topic Modelling](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Text%20Mining%20in%20Python/Document%20Similarity%20%26%20Topic%20Modelling.ipynb): Document similarity & topic modelling
+
+### Applied Social Network Analysis in Python
+Assignments:
+
 
 
 
