@@ -1,7 +1,7 @@
 # Applied-Data-Science-with-Python-Specialisation
 
 ### Description:  
-This repository contains the coding assignments throughout the Applied Data Science with Python specialisation in Coursera.
+This repository contains the coding assignments that I completed throughout the Applied Data Science with Python specialisation in Coursera.
   
 ### About the specialisation:  
 The specialisation includes topics from applied statistical analysis, machine learning, information visualization, text analysis, and social network analysis techniques through popular python toolkits such as pandas, matplotlib, scikit-learn, nltk, and networkx.
@@ -21,9 +21,9 @@ Assignments:
 
 ### Applied Plotting, Charting & Data Representation in Python
 Assignments:
-- [Unemployment Rates in Ann Arbour, Michigan, US](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/UnemploymentRates.pdf)
-- [Extreme Temperatures in Ann Arbour, Michigan, US](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Extreme%2BTemperatures%20(1).ipynb)
-- [Representing probabilistic data generated through samples](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Building%20a%20Custom%20Visualisation.ipynb)
+- [Basic Charting](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/UnemploymentRates.pdf): Unemployment Rates in Ann Arbour, Michigan, US
+- [Charting Fundamentals](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Extreme%2BTemperatures%20(1).ipynb): Extreme Temperatures in Ann Arbour, Michigan, US
+- [Applied Visualisations](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Building%20a%20Custom%20Visualisation.ipynb): Representing probabilistic data generated through samples
 
 ### Applied Machine Learning in Python
 Assignments:
@@ -41,7 +41,10 @@ Assignments:
 
 ### Applied Social Network Analysis in Python
 Assignments:
-
+- [Basics on NetworkX](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Social%20Network%20Analysis%20in%20Python/Creating%20%26%20Manipulating%20Graphs.ipynb): Creating and manipulating graphs
+- [Network Connectivity](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Social%20Network%20Analysis%20in%20Python/Network%20Connectivity.ipynb): Analysing email communications in a company
+- [Network Centrality](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Social%20Network%20Analysis%20in%20Python/Network%20Centrality.ipynb): Measures of centrality in a network
+- [Network Evolution](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Social%20Network%20Analysis%20in%20Python/Network%2C%20Emails%2C%20and%20Salary%20Prediction.ipynb): Salary & new connections prediction
 
 
 
