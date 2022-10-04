@@ -26,5 +26,17 @@ Assignments:
 - [Representing probabilistic data generated through samples](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Building%20a%20Custom%20Visualisation.ipynb)
 
 ### Applied Machine Learning in Python
+Assignments:
+- [Intro to ML](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Machine%20Learning%20in%20Python/Cancer%20Classifier.ipynb): Training a breast cancer classifier using the Brease Cancer Wisconsin (Diagnostic) Database
+- [Supervised Learning](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Machine%20Learning%20in%20Python/Supervised%20Learning.ipynb): Fitting regression and classification models
+- [Evaluation](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Machine%20Learning%20in%20Python/Evaluation.ipynb): Evaluation of credit fraud detection models
+- [Supervised ML](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Machine%20Learning%20in%20Python/Predicting%20Property%20Maintenance%20Fines.ipynb): Predicting property maintenance fees using random forest regressor.
+
+### Applied Text Mining in Python
+
+
+
+
+
 
 
