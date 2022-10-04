@@ -20,6 +20,7 @@ Assignments:
 - [Hypothesis Testing](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Introduction%20to%20Data%20Science%20in%20Python/Hypothesis%20Testing.ipynb): Hypothesis testing on house prices dataset
 
 ### Applied Plotting, Charting & Data Representation in Python
+Assignments:
 - [Unemployment Rates in Ann Arbour, Michigan, US](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/UnemploymentRates.pdf)
 - [Extreme Temperatures in Ann Arbour, Michigan, US](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Extreme%2BTemperatures%20(1).ipynb)
 - [Representing probabilistic data generated through samples](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Plotting%2C%20Charting%20%26%20Data%20Representation%20in%20Python/Building%20a%20Custom%20Visualisation.ipynb)
