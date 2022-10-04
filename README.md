@@ -49,6 +49,6 @@ Assignments:
 
 
 
-
+![Certificate](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Images/Screenshot%202022-10-04%20at%207.43.03%20PM.png)
 
 
