@@ -47,7 +47,7 @@ Assignments:
 - [Network Evolution](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Applied%20Social%20Network%20Analysis%20in%20Python/Network%2C%20Emails%2C%20and%20Salary%20Prediction.ipynb): Salary & new connections prediction
 
 
-
+### Certificate of Completion
 
 ![Certificate](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Images/Screenshot%202022-10-04%20at%207.43.03%20PM.png)
 
