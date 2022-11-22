@@ -1,4 +1,4 @@
-# Applied-Data-Science-with-Python-Specialisation
+# Applied Data Science with Python Specialisation
 
 ### Description:  
 This repository contains the coding assignments that I completed throughout the Applied Data Science with Python specialisation in Coursera.
