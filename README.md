@@ -49,6 +49,6 @@ Assignments:
 
 ### Certificate of Completion
 
-![Certificate](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/tree/master/Images/Certificate.png)
+![Certificate](https://github.com/Gianatmaja/Applied-Data-Science-with-Python-Specialisation/blob/master/Images/Certificate.png)
 
 
